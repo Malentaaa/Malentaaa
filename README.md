@@ -4,6 +4,9 @@
   
 ![giphy](https://github.com/user-attachments/assets/99e6d7da-e6b8-4709-a8fa-4762664a3230)
 
+![](https://komarev.com/ghpvc/?username=Malentaaa&style=flat-square&color=blue)
+
+
 
 ![Python](https://img.shields.io/badge/Python-000?logo=python)
 ![pandas](https://img.shields.io/badge/pandas-000?logo=pandas)
