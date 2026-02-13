@@ -1,10 +1,9 @@
 ## 👋 Hello World)
 <p align="left">
 Иногда модель переобучается. Иногда я тоже😵‍💫.  
-</p>
-<p align="left">
-<img src="https://github.com/user-attachments/assets/c48c20b6-d7cc-489a-a8d4-0bbf4c5e18ef" width="300">
-</p>
+  
+![giphy](https://github.com/user-attachments/assets/99e6d7da-e6b8-4709-a8fa-4762664a3230)
+
 
 ![Python](https://img.shields.io/badge/Python-000?logo=python)
 ![pandas](https://img.shields.io/badge/pandas-000?logo=pandas)
@@ -38,10 +37,12 @@
 🛠️ Сейчас переношу учебные проекты в GitHub и привожу их в аккуратный вид.
 | Проект | Описание |
 |---|---|
+| [Nutrition Tracker: ИИ агент анализа рациона](https://github.com/Malentaaa/nutrition_tracker) | обработка данных, расчёт КБЖУ, визуализация |
 | [Marketing: маркетинг-аналитика](https://github.com/Malentaaa/Marketing) | EDA, когорты, retention, ключевые метрики и выводы |
-| [CV: определение возраста](https://github.com/YOUR_USERNAME/your-repo) | CNN/ResNet, метрики, инференс |
-| [NLP: токсичные комментарии](https://github.com/YOUR_USERNAME/your-repo) | TF-IDF/SVM, BERT, сравнение моделей |
-| [Time Series: такси](https://github.com/YOUR_USERNAME/your-repo) |временные ряды, лаги, бустинг, TimeSeriesSplit |
+| [CV: определение возраста](https://github.com/Malentaaa/CV_real_age) | CNN/ResNet, EDA, frozen → fine-tuning, метрики |
+| [NLP: токсичные комментарии](https://github.com/Malentaaa/NLP-toxic_comments) | TF-IDF + LinearSVC, BERT fine-tuning, сравнительный анализ |
+| [Time Series: такси](https://github.com/Malentaaa/Time-Series-.git) | временные ряды, лаги, бустинг, TimeSeriesSplit |
+| [Другие проекты](https://github.com/Malentaaa?tab=repositories) | другие проекты| 
 
 
 
