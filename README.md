@@ -41,6 +41,7 @@
 | Проект | Описание |
 |---|---|
 | [Nutrition Tracker: ИИ агент анализа рациона](https://github.com/Malentaaa/nutrition_tracker) | обработка данных, расчёт КБЖУ, визуализация |
+| [NLP CV: Поиск изображений по текстовому запросу](https://github.com/Malentaaa/NLP_CV_clip-image-search) | CLIP, FAISS, Alignment Head (Ridge), LoRA (PEFT), Vector Similarity Search, тестирование модели | 
 | [Marketing: маркетинг-аналитика](https://github.com/Malentaaa/Marketing) | EDA, когорты, retention, ключевые метрики и выводы |
 | [CV: определение возраста](https://github.com/Malentaaa/CV_real_age) | CNN/ResNet, EDA, frozen → fine-tuning, метрики |
 | [NLP: токсичные комментарии](https://github.com/Malentaaa/NLP-toxic_comments) | TF-IDF + LinearSVC, BERT fine-tuning, сравнительный анализ |
