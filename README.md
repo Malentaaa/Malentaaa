@@ -40,6 +40,7 @@
 🛠️ Сейчас переношу учебные проекты в GitHub и привожу их в аккуратный вид.
 | Проект | Описание |
 |---|---|
+| [DA: Продуктовый анализ на примере бразильского маркетплейса](https://github.com/Malentaaa/product-analytics-project) | обработка данных, клиентский путь, визуализация |
 | [Nutrition Tracker: ИИ агент анализа рациона](https://github.com/Malentaaa/nutrition_tracker) | обработка данных, расчёт КБЖУ, визуализация |
 | [NLP CV: Поиск изображений по текстовому запросу](https://github.com/Malentaaa/NLP_CV_clip-image-search) | CLIP, FAISS, Alignment Head (Ridge), LoRA (PEFT), Vector Similarity Search, тестирование модели | 
 | [Marketing: маркетинг-аналитика](https://github.com/Malentaaa/Marketing) | EDA, когорты, retention, ключевые метрики и выводы |
