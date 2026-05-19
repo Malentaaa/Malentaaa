@@ -7,7 +7,6 @@
 ![](https://komarev.com/ghpvc/?username=Malentaaa&style=flat-square&color=blue)
 
 
-
 ![Python](https://img.shields.io/badge/Python-000?logo=python)
 ![pandas](https://img.shields.io/badge/pandas-000?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-000?logo=numpy)
@@ -18,6 +17,21 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-000?logo=apachespark)
 ![SQL](https://img.shields.io/badge/SQL-000?logo=postgresql)
 
+![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
+![Git](https://img.shields.io/badge/Git-000?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)
+
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-000?logo=huggingface)
+![Transformers](https://img.shields.io/badge/Transformers-000?logo=huggingface)
+![FAISS](https://img.shields.io/badge/FAISS-000?logo=meta)
+
+![Ultralytics%20YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-000)
+![OpenCV](https://img.shields.io/badge/OpenCV-000?logo=opencv)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-000)
+
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-000)
+![Jinja2](https://img.shields.io/badge/Jinja2-000)
 ### Статистики для красоты
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malentaaa&theme=2077" />
@@ -40,7 +54,7 @@
 🛠️ Сейчас переношу учебные проекты в GitHub и привожу их в аккуратный вид.
 | Проект | Описание |
 |---|---|
-| [DA: Продуктовый анализ на примере бразильского маркетплейса](https://github.com/Malentaaa/product-analytics-project) | обработка данных, клиентский путь, визуализация |
+| [Mini RAG Agent: Локальный AI-поиск по PDF](https://github.com/Malentaaa/mini-rag-agent) | Semantic Search, BAAI/bge-m3, FAISS (IndexFlatIP), FastAPI, Docker, PyMuPDF, поиск релевантной информации по смыслу, preview страниц, автоматическая индексация |
 | [Nutrition Tracker: ИИ агент анализа рациона](https://github.com/Malentaaa/nutrition_tracker) | обработка данных, расчёт КБЖУ, визуализация |
 | [NLP CV: Поиск изображений по текстовому запросу](https://github.com/Malentaaa/NLP_CV_clip-image-search) | CLIP, FAISS, Alignment Head (Ridge), LoRA (PEFT), Vector Similarity Search, тестирование модели | 
 | [Marketing: маркетинг-аналитика](https://github.com/Malentaaa/Marketing) | EDA, когорты, retention, ключевые метрики и выводы |
